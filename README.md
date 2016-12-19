@@ -11,3 +11,5 @@ Members / Developers
 `emma` 
 
 `nejos97` -`Nenba Jonathan`- `Java,PHP && C Dev`
+
+`webexpert` - `Okoye Richard` - `Web Developer { Front-end & Back-end }`
